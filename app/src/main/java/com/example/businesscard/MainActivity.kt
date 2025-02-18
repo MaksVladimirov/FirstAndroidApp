@@ -78,7 +78,7 @@ fun BusinessCard() {
             Divider(modifier = Modifier.fillMaxWidth(), thickness = 2.dp, color = Color(0xFF526E7B))
             ContactRow(R.drawable.ic_share, "@maksoonchik03")
             Divider(modifier = Modifier.fillMaxWidth(), thickness = 2.dp, color = Color(0xFF526E7B))
-            ContactRow(R.drawable.ic_email, "topmaks03@gmail.com")
+            ContactRow(R.drawable.ic_email, "topmaks003@gmail.com")
         }
     }
 }
